@@ -37,4 +37,4 @@
 
 **Task 6️⃣:** Delete the deadfox file. Make a commit.
 
-**Task 7️⃣:** Switch to any commit. Take a screenshot of logs. Switch back without creating new branches. Save the screenshot and make commit.
+**Task 7️⃣:** Switch to any commit. Take a screenshot of logs. Switchgit  back without creating new branches. Save the screenshot and make commit.
