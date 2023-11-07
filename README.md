@@ -14,7 +14,7 @@
 
 ⚠️   *Your push operation may not work. If so you can use FORCE PUSH. How to do force push you can find in internet, or use https url.* 
 
-⚠️ *The end of the exam is at **11:30**.* 
+⚠️ *The end of the exam is at **11:40**.* 
 
 ❌ *I will not accept links that are sent later than end of the exam*  
 
@@ -37,4 +37,4 @@
 
 **Task 6️⃣:** Delete the deadfox file. Make a commit.
 
-**Task 7️⃣:** Switch to any commit. Take a screenshot of logs. Switchgit  back without creating new branches. Save the screenshot and make commit.
+**Task 7️⃣:** Switch to any commit. Take a screenshot of logs. Switch back without creating new branches. Save the screenshot and make commit.
